@@ -47,7 +47,7 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground antialiased;
+    @apply bg-background text-foreground antialiased overflow-x-hidden;
     font-family: var(--font-sans);
   }
   h1, h2, h3, h4, h5, h6 {
@@ -58,12 +58,12 @@
 
 @layer utilities {
   .oval-text {
-    @apply rounded-[100px] border border-black/5 px-8 py-6;
+    @apply rounded-[32px] md:rounded-[100px] border border-black/5 px-6 py-8 md:px-8 md:py-12;
   }
-  .stagger-left {
+  .md\:stagger-left {
     @apply md:translate-x-[-10%] lg:translate-x-[-15%];
   }
-  .stagger-right {
+  .md\:stagger-right {
     @apply md:translate-x-[10%] lg:translate-x-[15%];
   }
 }
