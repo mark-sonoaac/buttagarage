@@ -1,0 +1,167 @@
+Goal:
+Create a modern, responsive frontend landing page website for an auction dealership named Butta the Auctioner. This site focuses on buying cars at auction and selling them at low, transparent prices. The goal is trust, speed, and value.
+
+General Rules
+
+Frontend only (HTML, CSS, JavaScript)
+
+No backend, no databases
+
+Do NOT create other pages yet (only links/placeholders)
+
+Buttons should be functional but route to # anchors or placeholder modals
+
+Use the existing reference image in Replit as inspiration only
+
+Match layout flow and polish
+
+Do NOT copy text, branding, or exact structure
+
+Make it clean, bold, dealership-style, and modern
+
+Mobile-first, fully responsive
+
+Brand Identity
+
+Business Name: Butta the Auctioner
+
+Industry: Auto Auction Dealership
+
+Tone: Confident, straightforward, street-smart but professional
+
+Value Prop: “Bought at auction. Sold without the markup.”
+
+Color & Style
+
+Dark theme or high-contrast neutral base
+
+Accent color that feels premium (gold, lime, or electric blue)
+
+Large bold typography for headlines
+
+Smooth scroll animations
+
+Subtle hover effects on buttons and cards
+
+Page Structure
+1. Hero Section (Above the Fold)
+
+Full-width hero with background image or gradient
+
+Overlay text and CTA buttons
+
+Hero Headline (example – you may refine):
+
+Auction Prices. Street-Ready Deals.
+
+Subheadline:
+
+Butta buys vehicles straight from auction and sells them at prices dealers can’t touch.
+
+Primary Buttons:
+
+View Inventory (placeholder)
+
+How It Works (scrolls down)
+
+Optional:
+
+Small badge text: “No Dealer Markups”
+
+2. Scroll Section – How It Works
+
+Three simple steps with icons or cards:
+
+We Buy at Auction – Direct access, no middlemen
+
+We Price It Fair – No inflated dealer pricing
+
+You Drive Away – Simple, fast, transparent
+
+Smooth scroll animation when entering viewport.
+
+3. Scroll Section – Why Butta
+
+Short bold statements or cards:
+
+Auction-level pricing
+
+Hand-picked vehicles
+
+Fast turnaround
+
+No pressure sales
+
+This section should build trust.
+
+4. Call-To-Action Section
+
+Strong CTA with buttons:
+
+Browse Cars (placeholder)
+
+Contact Butta (placeholder popup/modal)
+
+5. Footer
+
+Include:
+
+Business name
+
+Short tagline
+
+Placeholder links:
+
+Inventory
+
+About
+
+Contact
+
+FAQ
+
+Copyright text
+
+Functionality Requirements
+
+Smooth scrolling
+
+Buttons linked to section anchors or placeholder modals
+
+Clean semantic HTML
+
+Well-structured CSS (separate file if possible)
+
+Minimal JS for scrolling or modal placeholders
+
+No frameworks unless necessary (vanilla preferred)
+
+README.md (Required)
+
+Generate a README.md that includes:
+
+Project title
+
+Description of Butta the Auctioner
+
+Tech stack used
+
+How to run locally in Replit
+
+Notes stating:
+
+Frontend only
+
+Other pages and backend coming later
+
+Final Output Expectations
+
+Fully working landing page
+
+Visually polished
+
+Ready to expand later
+
+No lorem ipsum
+
+Text must be specific to Butta the Auctioner
